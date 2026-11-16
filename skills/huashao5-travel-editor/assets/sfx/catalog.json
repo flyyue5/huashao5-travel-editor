@@ -1,0 +1,32 @@
+{
+  "source": "原创合成音效，不含用户原声或参考视频音轨",
+  "gain_db": 0,
+  "note": "文件已按轻量混音电平输出；实际使用仍需根据人声调节",
+  "effects": [
+    {
+      "name": "soft-pop",
+      "file": "soft-pop.wav",
+      "duration": 0.12
+    },
+    {
+      "name": "soft-chime",
+      "file": "soft-chime.wav",
+      "duration": 0.55
+    },
+    {
+      "name": "camera-click",
+      "file": "camera-click.wav",
+      "duration": 0.16
+    },
+    {
+      "name": "soft-swish",
+      "file": "soft-swish.wav",
+      "duration": 0.3
+    },
+    {
+      "name": "ball-boing",
+      "file": "ball-boing.wav",
+      "duration": 0.4
+    }
+  ]
+}
