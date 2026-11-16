@@ -1,0 +1,26 @@
+# Private user projects, recordings, caches and outputs are never published.
+.local/
+projects/
+private/
+raw/
+review/
+exports/
+models/
+.venv/
+.venv-*/
+.env
+.env.*
+__pycache__/
+*.pyc
+.DS_Store
+*.mp4
+*.mov
+*.mkv
+*.mp3
+*.m4a
+*.safetensors
+*.onnx
+*.pt
+*.log
+*.zip
+*.bundle

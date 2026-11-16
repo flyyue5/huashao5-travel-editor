@@ -1,0 +1,66 @@
+{
+  "version": "0.3.0",
+  "date": "2026-11-16",
+  "environment": {
+    "os": "macOS arm64",
+    "core_python": "3.9.6",
+    "ffmpeg": "4.4",
+    "ffprobe": "4.4.1"
+  },
+  "checks": {
+    "skill_structure": "passed",
+    "core_smoke": "passed",
+    "private_asset_audit": "passed",
+    "official_previews": {
+      "passed": 14,
+      "failed": 0,
+      "seconds_approx": 30
+    },
+    "original_opening_import": {
+      "passed": true,
+      "seconds": 50,
+      "pitch_or_speed_changed": false
+    },
+    "independent_instruction_following": {
+      "passed": true,
+      "video_seconds": 6.0,
+      "container_seconds": 6.016,
+      "size": "1280x720",
+      "fps": 30,
+      "decode_errors": 0,
+      "sample_frames_reviewed": true,
+      "tested_version": "0.1.0"
+    },
+    "ending": {
+      "status": "passed",
+      "mode": "in_place",
+      "display_seconds": 3,
+      "added_seconds": 0,
+      "cases": [
+        "unchanged clip count and source ranges",
+        "unchanged duration",
+        "unchanged dialogue and audio cues",
+        "inherited branding",
+        "replace old ending text",
+        "idempotent repeated update",
+        "final frame black",
+        "reject added footage/music",
+        "original EDL preserved"
+      ],
+      "style_preview_seconds": 3,
+      "style_preview_has_new_travel_footage": false,
+      "actual_listening": false
+    }
+  },
+  "not_completed": [
+    "ASR model inference",
+    "Linux and Windows execution",
+    "GitHub Actions remote run",
+    "Real-time continuous playback and full listening review"
+  ],
+  "audio_distribution": {
+    "public_repository_contains_commercial_audio": false,
+    "previews_fetched_into_user_project": true,
+    "original_opening_imported_into_user_project": true
+  }
+}
