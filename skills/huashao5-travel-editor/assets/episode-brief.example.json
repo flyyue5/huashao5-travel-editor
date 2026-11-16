@@ -1,0 +1,17 @@
+{
+  "episode_id": "ep01",
+  "title": "我们的旅行季",
+  "locations": [],
+  "focus": "",
+  "must_include": [],
+  "must_exclude": [],
+  "opening_seconds": 50,
+  "main_target_seconds": 600,
+  "branding": {
+    "mode": "none"
+  },
+  "notes": "素材不足自然缩短；首次按用户选择台标。",
+  "ending_seconds": 3,
+  "ending_title": "下次见",
+  "ending_mode": "in_place"
+}

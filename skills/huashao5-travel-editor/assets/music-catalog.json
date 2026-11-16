@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "selection": "fixed_14_official_previews",
+  "full_songs_included": false,
+  "tracks": [
+    {
+      "title": "Record Player",
+      "artist": "Daisy the Great & AJR",
+      "album": "Record Player - Single",
+      "track_id": 1581830933,
+      "source_url": "https://music.apple.com/us/album/record-player/1581830924?i=1581830933&uo=4",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7b/f7/6b/7bf76b13-6e49-8e90-8868-2c140bcb8bef/mzaf_11803939256791147660.plus.aac.p.m4a",
+      "preview_seconds": 30.02,
+      "source_type": "official_public_preview"
+    },
+    {
+      "title": "Gas Station Diner",
+      "artist": "AGA",
+      "album": "Gas Station Diner - Single",
+      "track_id": 1794703234,
+      "source_url": "https://music.apple.com/hk/album/gas-station-diner/1794703029?i=1794703234&uo=4",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/14/b8/1b/14b81b88-d6dc-433d-4b40-bcb5798b2d37/mzaf_11146435703214634072.plus.aac.p.m4a",
+      "preview_seconds": 30.02,
+      "source_type": "official_public_preview"
+    },
+    {
+      "title": "All of Me",
+      "artist": "John Legend",
+      "album": "Love in the Future (Expanded Edition)",
+      "track_id": 1441844542,
+      "source_url": "https://music.apple.com/us/album/all-of-me/1441844369?i=1441844542&uo=4",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ff/94/6c/ff946ca7-e49a-fdf8-ea5b-11e6f56a0417/mzaf_17369156110722174773.plus.aac.p.m4a",
+      "preview_seconds": 30.02,
+      "source_type": "official_public_preview"
+    },
+    {
+      "title": "献给永远的",
+      "artist": "大粉樂隊",
+      "album": "Dedicated forever - Single",
+      "track_id": 1807492304,
+      "source_url": "https://music.apple.com/us/album/dedicated-forever/1807492300?i=1807492304&uo=4",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5d/c6/8f/5dc68fbb-dffa-111b-2b19-9492f194b15e/mzaf_4463280605732903135.plus.aac.p.m4a",
+      "preview_seconds": 30.02,
+      "source_type": "official_public_preview"
+    },
+    {
+      "title": "Blood Money",
+      "artist": "Vancouver Sleep Clinic",
+      "album": "Blood Money - Single",
+      "track_id": 1624848815,
+      "source_url": "https://music.apple.com/us/album/blood-money/1624848808?i=1624848815&uo=4",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/96/c5/ca/96c5ca7a-b686-c924-a8d6-01b3996b4e81/mzaf_3917834649786159915.plus.aac.p.m4a",
+      "preview_seconds": 29.98,
+      "source_type": "official_public_preview"
+    },
+    {
+      "title": "Down in Flames",
+      "artist": "Ella Vos",
+      "album": "Words I Never Said",
+      "track_id": 1307022176,
+      "source_url": "https://music.apple.com/us/album/down-in-flames/1307022166?i=1307022176&uo=4",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/51/37/b6/5137b614-27eb-05d1-8abf-d195d40eec1b/mzaf_5384592861212692707.plus.aac.p.m4a",
+      "preview_seconds": 30.02,
+      "source_type": "official_public_preview"
+    },
+    {
+      "title": "Seine River",
+      "artist": "IamDayLight",
+      "album": "Seine River - EP",
+      "track_id": 1518762768,
+      "source_url": "https://music.apple.com/us/album/seine-river/1518762763?i=1518762768&uo=4",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/da/23/d0/da23d051-f0ec-1e7c-7b3c-66249909ad4e/mzaf_14127217958524873.plus.aac.p.m4a",
+      "preview_seconds": 30.02,
+      "source_type": "official_public_preview"
+    },
+    {
+      "title": "Voli Me Kao Kiša",
+      "artist": "Luka Nižetić",
+      "album": "Voli Me Kao Kiša - Single",
+      "track_id": 1414938238,
+      "source_url": "https://music.apple.com/us/album/voli-me-kao-ki%C5%A1a/1414937968?i=1414938238&uo=4",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/dc/4d/a2/dc4da227-c44c-5871-ad05-5be4f95d0d09/mzaf_17516231693839511706.plus.aac.p.m4a",
+      "preview_seconds": 29.98,
+      "source_type": "official_public_preview"
+    },
+    {
+      "title": "The Monkey Time",
+      "artist": "Major Lance",
+      "album": "The Very Best of Major Lance",
+      "track_id": 158532684,
+      "source_url": "https://music.apple.com/us/album/the-monkey-time/158532661?i=158532684&uo=4",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/8b/ba/d6/8bbad646-b61a-58ae-5faf-cf81aff78d19/mzaf_2568198077212458671.plus.aac.p.m4a",
+      "preview_seconds": 29.98,
+      "source_type": "official_public_preview"
+    },
+    {
+      "title": "Dome of Light",
+      "artist": "X-Ray Dog",
+      "album": "Shepherd",
+      "track_id": 1209262937,
+      "source_url": "https://music.apple.com/us/album/dome-of-light/1209262430?i=1209262937&uo=4",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4a/b5/38/4ab538aa-70db-892f-4200-aaf932030924/mzaf_5546336628444516241.plus.aac.p.m4a",
+      "preview_seconds": 29.98,
+      "source_type": "official_public_preview"
+    },
+    {
+      "title": "Badelt: Générique",
+      "artist": "Dirk Brossé, Galaxy Film Orchestra, Loic Ponthieux, Nicolas Montazaud, David Neerman, Michel Yves Kochmann, Franck Bedez, Mark Steylaerts, Johan Renard, Pierre Bertrand, Dominique Vernhes, Geert Baeckelandt, Frank Henderickx & Karsten Schmidt",
+      "album": "Le petit Nicolas (Bande originale du film)",
+      "track_id": 1443784005,
+      "source_url": "https://music.apple.com/fr/album/g%C3%A9n%C3%A9rique/1443783773?i=1443784005&uo=4",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/46/30/6b/46306b97-8bef-c881-6b0a-2c3fc8cd7bbf/mzaf_10240030335177535835.plus.aac.p.m4a",
+      "preview_seconds": 29.98,
+      "source_type": "official_public_preview"
+    },
+    {
+      "title": "Darling (Score ver.)",
+      "artist": "muii & Lee Nyeom",
+      "album": "Melancholia (Original Television Soundtrack)",
+      "track_id": 1602465557,
+      "source_url": "https://music.apple.com/us/album/darling-score-version/1602465256?i=1602465557&uo=4",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/de/53/f4/de53f4ed-61c2-74a1-c9ff-25d3efcb4821/mzaf_11996453312564282537.plus.aac.p.m4a",
+      "preview_seconds": 30.02,
+      "source_type": "official_public_preview"
+    },
+    {
+      "title": "Stay Alive",
+      "artist": "José González",
+      "album": "The Secret Life of Walter Mitty (Music From and Inspired By the Motion Picture)",
+      "track_id": 1440848538,
+      "source_url": "https://music.apple.com/gb/album/stay-alive/1440848321?i=1440848538&uo=4",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/db/4d/c2/db4dc21f-1a6d-ee62-f688-f8647825b995/mzaf_3453811541169117403.plus.aac.p.m4a",
+      "preview_seconds": 30.02,
+      "source_type": "official_public_preview"
+    },
+    {
+      "title": "Head In The Clouds",
+      "artist": "Hayd",
+      "album": "Changes - EP",
+      "track_id": 1583125951,
+      "source_url": "https://music.apple.com/us/album/head-in-the-clouds/1583125945?i=1583125951&uo=4",
+      "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/49/44/78/49447871-754b-d400-3e82-f83798825825/mzaf_2136772907004076254.plus.aac.p.m4a",
+      "preview_seconds": 30.02,
+      "source_type": "official_public_preview"
+    }
+  ]
+}

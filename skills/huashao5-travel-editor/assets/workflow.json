@@ -1,0 +1,47 @@
+{
+  "version": "0.3.0",
+  "title": "我们的旅行季",
+  "opening_seconds": 50,
+  "main_target_seconds": 600,
+  "never_pad_short_material": true,
+  "format": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  },
+  "caption_theme": "huashao_v2",
+  "branding": {
+    "mode": "none"
+  },
+  "opening": {
+    "route": "import_original_recording",
+    "source": "private/music/opening-original.m4a",
+    "source_in": 0,
+    "pitch_change": false,
+    "speed_change": false
+  },
+  "music": {
+    "catalogue": "fixed_14_official_previews",
+    "intermittent": true,
+    "duck_under_speech": true,
+    "loop": false
+  },
+  "quality": {
+    "require_verified_dialogue": true,
+    "name_mapping": "user_provided_only",
+    "continuous_viewing_required": true,
+    "listening_required": true
+  },
+  "ending": {
+    "enabled": true,
+    "mode": "in_place",
+    "target_seconds": 3,
+    "added_seconds": 0,
+    "picture": "使用正片原有最后一个镜头，不追加回顾或合照",
+    "default_title": "下次见",
+    "branding": "inherit_user_selection",
+    "music": "preserve_existing_audio_no_new_cue",
+    "video_fade_out": 1,
+    "audio_fade_out": 1.2
+  }
+}

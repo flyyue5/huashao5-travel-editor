@@ -1,0 +1,11 @@
+{
+  "seconds": 3,
+  "title": "下次见",
+  "title_y": 0.72,
+  "title_size": 58,
+  "finish": {
+    "video_fade_out": 1,
+    "audio_fade_out": 1.2
+  },
+  "note": "直接作用于正片最后一个镜头，不新增镜头、回顾、合照、音乐或时长。"
+}

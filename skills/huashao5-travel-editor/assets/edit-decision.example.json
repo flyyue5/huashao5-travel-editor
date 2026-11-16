@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "width": 1280,
+  "height": 720,
+  "fps": 30,
+  "caption_theme": "huashao_v2",
+  "branding": {
+    "mode": "none"
+  },
+  "speakers": {},
+  "clips": [
+    {
+      "kind": "card",
+      "in": 0,
+      "out": 3,
+      "color": "#345D72"
+    },
+    {
+      "kind": "card",
+      "in": 0,
+      "out": 3,
+      "color": "#C7B6A5"
+    }
+  ],
+  "events": [
+    {
+      "kind": "title",
+      "start": 0.1,
+      "end": 2.8,
+      "text": "我们的旅行季",
+      "y": 0.38,
+      "size": 80
+    },
+    {
+      "kind": "dialogue",
+      "start": 3.1,
+      "end": 5.8,
+      "text": "字幕样式测试，请换成真实对白",
+      "text_verified": true
+    }
+  ],
+  "music": [],
+  "sfx": [
+    {
+      "source": "asset:sfx/soft-pop.wav",
+      "timeline_in": 3.1,
+      "source_in": 0,
+      "duration": 0.12,
+      "gain_db": -8,
+      "rights": "licensed"
+    }
+  ],
+  "stickers": [
+    {
+      "cell": 5,
+      "start": 0.3,
+      "end": 2.6,
+      "width": 0.15,
+      "x": 0.72,
+      "y": 0.44
+    }
+  ],
+  "note": "6秒色卡环境自测，字幕为明确的测试文案，不是旅行成片。请替换为已审阅原片和对白。"
+}
