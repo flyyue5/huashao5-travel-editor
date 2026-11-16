@@ -1,0 +1,2 @@
+# Optional; core rendering needs only Python standard library + FFmpeg/ffprobe.
+faster-whisper>=1.1,<2
