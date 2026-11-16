@@ -1,0 +1,16 @@
+name: portable-smoke
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  core:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.11'
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-noto-cjk
+      - run: python3 tests/release_audit.py
+      - run: python3 tests/smoke_test.py
+      - run: python3 tests/ending_test.py
